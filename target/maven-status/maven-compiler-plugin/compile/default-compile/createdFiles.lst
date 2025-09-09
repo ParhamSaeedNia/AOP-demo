@@ -1,0 +1,5 @@
+ir/sematec/EmployeeCRUDAspect.class
+ir/sematec/EmployeeDTO.class
+ir/sematec/AppConfig.class
+ir/sematec/EmployeeManager.class
+ir/sematec/TestAOP.class
